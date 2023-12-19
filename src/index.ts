@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { AIFixerEngine } from "./lib/fixer-engine";
+import { AIRunner } from "./lib/fixer-engine";
 
 
 async function main() {
